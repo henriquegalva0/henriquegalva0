@@ -8,8 +8,8 @@ Reach me out!
 #### What I currently Do
 
 - 🔭 I’m currently working at my own startup @evitaai.oficial
-- 📚 I am currently in the second semester of the Bachelor's degree program in Artificial Intelligence at the Federal University of Goiás (UFG).
-- 📫 How to reach me: henriquegasil@gmail.com.
+- 📚 I am currently in the second semester of the Bachelor's degree program in Artificial Intelligence at the Federal University of Goiás (UFG)
+- 📫 How to reach me: henriquegasil@gmail.com
 
 #### Learning & Interests
 
