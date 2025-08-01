@@ -1,7 +1,5 @@
 ## Hi I'm Henrique <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Building [OneMCP](https://onemcp.io/) ⚡️ 
-
 My name is Henrique Galvão — an AI Developer and undergraduate student at the Federal University of Goiás (UFG). I'm passionate about building intelligent systems and spend most of my time working on innovative projects, studying machine learning, and exploring real-world AI applications.
 
 Reach me out!
