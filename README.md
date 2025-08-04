@@ -16,7 +16,7 @@ My name is Henrique Galvão — an AI Developer and undergraduate student at the
 
 - 🧠 Natural Language Processing  
 - 🤖 Transformers & LLMs  
-- ☁️ Cloud Computing with Python (e.g., Render, AWS)  
+- ☁️ Interative Chatbots
 - 🛡️ Cybersecurity with AI
 
 #### A Little More About Me
