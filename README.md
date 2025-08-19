@@ -28,7 +28,10 @@ My name is Henrique Galvão — an AI Developer and undergraduate student at the
 
 ### Top Technologies
 
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) 
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
+[![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](#)
 
 ### Business
 - :paperclip: [My Resume/CV](http://lattes.cnpq.br/2697928938405442)
