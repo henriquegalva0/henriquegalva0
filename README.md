@@ -27,10 +27,16 @@ My name is Henrique Galvão — an AI Developer and undergraduate student at the
 - 🧩 Curious about cognitive science and human decision-making  
 
 ### Top Technologies
-[![Slurm Badge](https://img.shields.io/badge/-Slurm-3706AB?style=for-the-badge&labelColor=black&logo=slurm&logoColor=3706AB)](#) 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
+[![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+
+### Skills & Tools
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+<img src="https://img.shields.io/badge/Slurm-2F4F4F?style=for-the-badge&logo=linux&logoColor=white" alt="Slurm Workload Manager" />
 
 ### Business
 - :paperclip: [My Resume/CV](http://lattes.cnpq.br/2697928938405442)
