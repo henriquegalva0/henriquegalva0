@@ -8,8 +8,8 @@ My name is Henrique Galvão — an AI Developer and undergraduate student at the
 
 ### What I currently Do
 
-- 🔭 I’m currently working at my own startup @evitaai.oficial
-- 📚 I am currently in the second semester of the Bachelor's degree program in Artificial Intelligence at the Federal University of Goiás (UFG)
+- 🔭 I’ve worked on my own startup @evitaai.oficial
+- 📚 I am currently in the third term of the Bachelor's degree program in Artificial Intelligence at the Federal University of Goiás (UFG)
 - 📫 How to reach me: henriquegasil@gmail.com
 
 #### Learning & Interests
@@ -30,10 +30,10 @@ My name is Henrique Galvão — an AI Developer and undergraduate student at the
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
-[![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css&logoColor=1572B6)](#)
 
 ### Skills & Tools
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /> <img src="https://img.shields.io/badge/Slurm-2F4F4F?style=for-the-badge&logo=linux&logoColor=white" alt="Slurm Workload Manager" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode" /> <img src="https://img.shields.io/badge/Slurm-2F4F4F?style=for-the-badge&logo=linux&logoColor=white" alt="Slurm Workload Manager" />
 
 ### Business
 - :paperclip: [My Resume/CV](http://lattes.cnpq.br/2697928938405442)
