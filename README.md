@@ -33,10 +33,7 @@ My name is Henrique Galvão — an AI Developer and undergraduate student at the
 [![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 
 ### Skills & Tools
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-<img src="https://img.shields.io/badge/Slurm-2F4F4F?style=for-the-badge&logo=linux&logoColor=white" alt="Slurm Workload Manager" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /> <img src="https://img.shields.io/badge/Slurm-2F4F4F?style=for-the-badge&logo=linux&logoColor=white" alt="Slurm Workload Manager" />
 
 ### Business
 - :paperclip: [My Resume/CV](http://lattes.cnpq.br/2697928938405442)
