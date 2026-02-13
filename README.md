@@ -4,7 +4,8 @@ My name is Henrique Galvão — an AI Developer and undergraduate student at the
 
 #### Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-henriquegalva0-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquegalva0) [![Mail Badge](https://img.shields.io/badge/-@henriquegalva0-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/henriquegalva0/) [![Mail Badge](https://img.shields.io/badge/-henriquegasil-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:henriquegasil@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-henriquegalva0-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquegalva0) [![Mail Badge](https://img.shields.io/badge/-@henriquegalva0-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/henriquegalva0/) [![Mail Badge](https://img.shields.io/badge/-henriquegasil-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:henriquegasil@gmail.com) [![HuggingFace Badge](https://img.shields.io/badge/-henriquegalvao-FFD21E?style=flat&labelColor=FFD21E&logo=huggingface&logoColor=black)](https://huggingface.co/henriquegalvao)
+
 
 ### What I currently Do
 
