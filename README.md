@@ -6,27 +6,6 @@ My name is Henrique Galvão — an AI Developer and undergraduate student at the
 
 [![Linkedin Badge](https://img.shields.io/badge/-henriquegalva0-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquegalva0) [![Mail Badge](https://img.shields.io/badge/-@henriquegalva0-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/henriquegalva0/) [![Mail Badge](https://img.shields.io/badge/-henriquegasil-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:henriquegasil@gmail.com) [![HuggingFace Badge](https://img.shields.io/badge/-henriquegalvao-FFD21E?style=flat&labelColor=FFD21E&logo=huggingface&logoColor=black)](https://huggingface.co/henriquegalvao)
 
-
-### What I currently Do
-
-- 🔭 I’ve worked on my own startup @evitaai.oficial
-- 📚 I am currently in the third term of the Bachelor's degree program in Artificial Intelligence at the Federal University of Goiás (UFG)
-- 📫 How to reach me: henriquegasil@gmail.com
-
-#### Learning & Interests
-
-- 🧠 Natural Language Processing  
-- 🤖 Transformers & LLMs  
-- ☁️ Interative Chatbots
-- 🛡️ Cybersecurity with AI
-
-#### A Little More About Me
-
-- 🎮 Competitive gaming at heart
-- 🏐 Volleyball enthusiast  
-- 🎥 Audiovisual Designer
-- 🧩 Curious about cognitive science and human decision-making  
-
 ### Top Technologies
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
